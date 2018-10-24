@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+.img {
+    width: 355px;
+    height: 200px;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+}
